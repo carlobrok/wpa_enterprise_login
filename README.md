@@ -1,2 +1,2 @@
-# wpa_enterprise_login
-Zenity gui for an easier wpa enterprise login on school network using wpa_supplicant
+# WPA Enterprise login
+This is a Zenity GUI to more easily log into the network on school laptops that are being reset.
