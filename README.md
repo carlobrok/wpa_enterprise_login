@@ -1,2 +1,2 @@
 # wpa_enterprise_login
-Zenity gui for an easier wpa enterprise login on school notebooks
+Zenity gui for an easier wpa enterprise login on school network using wpa_supplicant
